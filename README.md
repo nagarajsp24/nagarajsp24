@@ -12,6 +12,7 @@ CSS
 JavaScript
 React
 Principles of UX/UI Design
+
 🌱 I'm Currently Learning:
 Keen on staying ahead in the dynamic world of frontend development, I am currently diving deeper into the latest technologies and methodologies to enhance my skill set.
 
