@@ -1,6 +1,6 @@
 👋 Hello, Welcome to my GitHub profile!
 
-I'm Nagaraj S Penagondala, a passionate job seeker in the field of Frontend Development. My coding journey began with a profound interest in creating user-centric experiences through HTML, CSS, and JavaScript. I specialize in React and embrace the principles of UX/UI design to craft delightful and intuitive interfaces.
+I'm Nagaraj S Penagondala, a passionate job seeker in the field of Frontend Development. My coding journey began with a profound interest in creating user-centric experiences through HTML, CSS, JavaScript and ReactJs . I specialize in React and embrace the principles of UX/UI design to craft delightful and intuitive interfaces.
 
 🚀 What I Do:
 Currently exploring opportunities to contribute as a Frontend Developer, I bring a blend of technical expertise and design principles to create seamless and engaging user interfaces. I am committed to delivering solutions that prioritize user experience and functionality.
